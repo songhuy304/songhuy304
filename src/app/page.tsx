@@ -154,7 +154,6 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Frontend",
       description: "Type-safe JavaScript for scalable applications",
-      yearsUsed: 2,
     },
     {
       name: "JavaScript",
@@ -199,7 +198,6 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Database",
       description: "Advanced open-source relational database",
-      yearsUsed: 1,
     },
     {
       name: "MongoDB",
@@ -207,7 +205,6 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Database",
       description: "NoSQL document database",
-      yearsUsed: 2,
     },
     {
       name: "MySQL",
@@ -215,7 +212,6 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Intermediate",
       category: "Database",
       description: "Popular open-source relational database",
-      yearsUsed: 1,
     },
     {
       name: "Prisma",
@@ -223,7 +219,6 @@ const techStackData: Record<string, TechItem[]> = {
       level: "Expert",
       category: "Database",
       description: "Next-generation ORM for Node.js and TypeScript",
-      yearsUsed: 1,
     },
   ],
 };
