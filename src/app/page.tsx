@@ -233,7 +233,7 @@ export default function Home() {
         <FadeIn delay={0}>
           <header className="flex flex-col gap-0 select-none">
             <div className="flex flex-row items-center gap-0">
-              <div className="flex flex-col gap-0.5 min-w-[400px]">
+              <div className="flex flex-col gap-0.5">
                 <h1
                   className="text-[20px] text-foreground font-semibold leading-none"
                   style={{
