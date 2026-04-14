@@ -5,7 +5,7 @@ export default function JsonLd() {
     const jsonLd: WithContext<Person> = {
         '@context': 'https://schema.org',
         '@type': 'Person',
-        name: 'Harsh Jadhav',
+        name: 'Huy Dang',
         givenName: 'Harsh',
         familyName: 'Jadhav',
         url: 'https://harshjdhv.com',
@@ -27,7 +27,7 @@ export default function JsonLd() {
             'https://x.com/harshjdhv',
         ],
         image: 'https://harshjdhv.com/linkbannerpreview.png',
-        description: 'Harsh Jadhav is a software engineer building user-facing applications and the systems behind them.'
+        description: 'Huy Dang is a software engineer building user-facing applications and the systems behind them.'
     };
 
     return (

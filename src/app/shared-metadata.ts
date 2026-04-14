@@ -1,18 +1,18 @@
 import { Metadata, Viewport } from "next";
 
-const MAIN_TITLE = "Harsh Jadhav — Software Engineer";
+const MAIN_TITLE = "Huy Dang — Software Engineer";
 const MAIN_DESCRIPTION =
-  "Harsh Jadhav is a software engineer building user-facing applications and the systems behind them.";
+  "Huy Dang is a software engineer building user-facing applications and the systems behind them.";
 
 export const sharedMetadata: Metadata = {
   metadataBase: new URL("https://harshjdhv.com"),
   title: {
     default: MAIN_TITLE,
-    template: `%s | Harsh Jadhav`,
+    template: `%s | Huy Dang`,
   },
   description: MAIN_DESCRIPTION,
   keywords: [
-    "Harsh Jadhav",
+    "Huy Dang",
     "Software Engineer",
     "Full Stack Developer",
     "Frontend Engineer",
@@ -21,21 +21,21 @@ export const sharedMetadata: Metadata = {
     "Interface Design",
     "Mumbai",
   ],
-  authors: [{ name: "Harsh Jadhav", url: "https://harshjdhv.com" }],
-  creator: "Harsh Jadhav",
+  authors: [{ name: "Huy Dang", url: "https://harshjdhv.com" }],
+  creator: "Huy Dang",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://harshjdhv.com",
     title: MAIN_TITLE,
     description: MAIN_DESCRIPTION,
-    siteName: "Harsh Jadhav",
+    siteName: "Huy Dang",
     images: [
       {
         url: "/opengraph-image",
         width: 1200,
         height: 630,
-        alt: "Harsh Jadhav - Software Engineer",
+        alt: "Huy Dang - Software Engineer",
       },
     ],
   },

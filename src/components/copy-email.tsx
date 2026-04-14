@@ -5,7 +5,7 @@ import { Copy, Check } from "lucide-react"
 
 export function CopyEmail() {
     const [copied, setCopied] = React.useState(false)
-    const email = "hi@harshjdhv.com"
+    const email = "songhuy304@gmail.com"
 
     const handleCopy = () => {
         navigator.clipboard.writeText(email)

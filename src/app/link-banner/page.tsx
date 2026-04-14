@@ -32,7 +32,7 @@ export default function LinkBannerPage() {
                             Software Engineer
                         </span>
                         <h1 className="font-serif-accent text-[6rem] tracking-tight text-white leading-none">
-                            Harsh Jadhav
+                            Huy Dang
                         </h1>
                     </div>
 
