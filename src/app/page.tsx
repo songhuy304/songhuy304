@@ -30,12 +30,13 @@ import { LocalTime } from "@/components/local-time";
 
 const EXPERIENCES = [
   {
-    role: "Frontend Engineer",
-    company: "SparkMinds",
-    period: "May 2023 — Apr 2025",
+    role: "Fullstack Developer",
+    company: "Upbase",
+    period: "Nov 2025 — Present",
     description:
-      "Focused on building frontend systems for e-wallet, blockchain, and crypto-related web applications. Developed user interfaces, optimized performance, and integrated wallet/payment features for various products.",
+      "Developing fullstack solutions for e-commerce platforms and multi-channel sales management systems. Responsible for both frontend and backend features, including system architecture and business logic.",
   },
+
   {
     role: "Frontend Engineer",
     company: "Shinhan DS",
@@ -43,12 +44,13 @@ const EXPERIENCES = [
     description:
       "Worked on the SOL Internet Banking web application for Shinhan Bank. Built secure, scalable frontend features and improved user experience for financial services.",
   },
+
   {
-    role: "Fullstack Developer",
-    company: "Upbase",
-    period: "Nov 2025 — Present",
+    role: "Frontend Engineer",
+    company: "SparkMinds",
+    period: "May 2023 — Apr 2025",
     description:
-      "Developing fullstack solutions for e-commerce platforms and multi-channel sales management systems. Responsible for both frontend and backend features, including system architecture and business logic.",
+      "Focused on building frontend systems for e-wallet, blockchain, and crypto-related web applications. Developed user interfaces, optimized performance, and integrated wallet/payment features for various products.",
   },
 ];
 
@@ -231,7 +233,7 @@ export default function Home() {
         <FadeIn delay={0}>
           <header className="flex flex-col gap-0 select-none">
             <div className="flex flex-row items-center gap-0">
-              <div className="flex flex-col gap-0.5">
+              <div className="flex flex-col gap-0.5 min-w-[400px]">
                 <h1
                   className="text-[20px] text-foreground font-semibold leading-none"
                   style={{
@@ -417,33 +419,15 @@ export default function Home() {
                 <span>Skills</span>
               </div>
 
-              <div className="flex flex-col gap-6">
+              <div className="flex flex-col gap-4">
                 {Object.entries(techStackData).map(([category, items]) => (
-                  <div key={category} className="flex flex-col gap-2">
-                    <span className="font-mono-meta text-[10px] text-neutral-500 uppercase tracking-wider">
-                      {category}
+                  <div key={category} className="flex gap-2 text-[14px]">
+                    <span className="font-medium text-foreground min-w-[90px]">
+                      {category}:
                     </span>
-                    <div className="flex flex-col gap-0">
-                      {items.map((item) => {
-                        const SkillIcon = item.icon;
-                        return (
-                        <div
-                          key={item.name}
-                          className="group flex gap-3 border-b border-border/40 py-2.5 last:border-0"
-                        >
-                          <SkillIcon
-                            className="mt-0.5 size-[22px] shrink-0 text-neutral-500 dark:text-neutral-400"
-                            aria-hidden
-                          />
-                          <div className="flex min-w-0 flex-1 flex-col gap-0.5">
-                              <span className="font-sans text-[14px] font-medium text-foreground">
-                                {item.name}
-                              </span>
-                          </div>
-                        </div>
-                        );
-                      })}
-                    </div>
+                    <span className="text-neutral-500">
+                      {items.map((item) => item.name).join(", ")}
+                    </span>
                   </div>
                 ))}
               </div>

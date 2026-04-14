@@ -8,7 +8,7 @@ export default function JsonLd() {
         name: 'Huy Dang',
         givenName: 'Harsh',
         familyName: 'Jadhav',
-        url: 'https://harshjdhv.com',
+        url: 'https://huydang.vercel.app/',
         jobTitle: 'Software Engineer',
         knowsAbout: [
             'Software Engineering',
@@ -26,7 +26,7 @@ export default function JsonLd() {
             'https://linkedin.com/in/jadhavharsh',
             'https://x.com/harshjdhv',
         ],
-        image: 'https://harshjdhv.com/linkbannerpreview.png',
+        image: 'https://huydang.vercel.app//linkbannerpreview.png',
         description: 'Huy Dang is a software engineer building user-facing applications and the systems behind them.'
     };
 

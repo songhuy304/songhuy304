@@ -5,7 +5,7 @@ const MAIN_DESCRIPTION =
   "Huy Dang is a software engineer building user-facing applications and the systems behind them.";
 
 export const sharedMetadata: Metadata = {
-  metadataBase: new URL("https://harshjdhv.com"),
+  metadataBase: new URL("https://huydang.vercel.app/"),
   title: {
     default: MAIN_TITLE,
     template: `%s | Huy Dang`,
@@ -21,12 +21,12 @@ export const sharedMetadata: Metadata = {
     "Interface Design",
     "Mumbai",
   ],
-  authors: [{ name: "Huy Dang", url: "https://harshjdhv.com" }],
+  authors: [{ name: "Huy Dang", url: "https://huydang.vercel.app/" }],
   creator: "Huy Dang",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://harshjdhv.com",
+    url: "https://huydang.vercel.app/",
     title: MAIN_TITLE,
     description: MAIN_DESCRIPTION,
     siteName: "Huy Dang",
@@ -43,7 +43,7 @@ export const sharedMetadata: Metadata = {
     card: "summary_large_image",
     title: MAIN_TITLE,
     description: MAIN_DESCRIPTION,
-    creator: "@harshjdhv",
+    creator: "@huydang",
   },
   robots: {
     index: true,
@@ -60,7 +60,7 @@ export const sharedMetadata: Metadata = {
     google: "google-site-verification-code", // Placeholder
   },
   alternates: {
-    canonical: "https://harshjdhv.com",
+    canonical: "https://huydang.vercel.app/",
   },
   icons: {
     icon: "/favicon.svg",

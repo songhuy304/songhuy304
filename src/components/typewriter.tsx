@@ -5,7 +5,7 @@ import { useState, useEffect } from "react";
 const PHRASES = [
   "Software Engineer",
   "Frontend Developer",
-  "Building from zero",
+  "Fullstack",
   "Crypto & Web",
 ];
 

@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: ["/private/", "/api/"],
     },
-    sitemap: "https://harshjdhv.com/sitemap.xml",
+    sitemap: "https://huydang.vercel.app//sitemap.xml",
   };
 }

@@ -1,3 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="500" letter-spacing="-1" fill="#fff">HJ</text>
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="900" rx="99" fill="white"/>
+<path d="M265.538 650.005L446.191 322.448L553.5 515L572 365.5L446.191 159L119.296 740H317.154C384.946 729.008 429.919 712.304 460.749 650.005H265.538Z" fill="#0A0A0D"/>
+<path d="M636.108 650.005C675.974 716.493 705.596 739.711 779.704 740L598.5 402L581 554.957L636.108 650.005Z" fill="#0A0A0D"/>
 </svg>
