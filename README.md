@@ -27,32 +27,34 @@
 ---
 
 ## 🚀 Featured Projects
-
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>🍜 Korean Food</h3>
       <p>A web application for exploring Korean food.</p>
-      <a href="https://korean-f.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-korean--f.vercel.app-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Korean Food demo"/></a>
+      <a href="https://korean-f.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-Korean%20Food-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Korean Food" />
+      </a>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>🏢 Saigon Club</h3>
       <p>Official website for Saigon Club.</p>
-      <a href="https://www.saigonclub.vn/"><img src="https://img.shields.io/badge/Live%20Demo-saigonclub.vn-F59E0B?style=flat-square&logo=googlechrome&logoColor=white" alt="Saigon Club demo"/></a>
+      <a href="https://www.saigonclub.vn/">
+        <img src="https://img.shields.io/badge/Live%20Demo-Saigon%20Club-F59E0B?style=flat-square&logo=googlechrome&logoColor=white" alt="Saigon Club" />
+      </a>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>🏙️ City Land</h3>
       <p>A real estate showcase website.</p>
-      <a href="https://city-land-six.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-city--land-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="City Land demo"/></a>
+      <a href="https://city-land-six.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-City%20Land-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="City Land" />
+      </a>
     </td>
-     <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>🏢 Devcon</h3>
       <p>Official website for Devcon.</p>
-      <a href="[https://www.saigonclub.vn](https://devcon-phi.vercel.app/)/"><img src="https://img.shields.io/badge/Live%20Demo-saigonclub.vn-F59E0B?style=flat-square&logo=googlechrome&logoColor=white" alt="Saigon Club demo"/></a>
-    </td>
-  </tr>
-</table>
-
+      <a href="https://devcon-phi.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-Devcon-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Devcon" />
 ---
 
 ## 🛠️ Languages & Tools
