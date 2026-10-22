@@ -1,3 +1,4 @@
+
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
@@ -9,9 +10,15 @@
 
 <br/>
 
-<a href="https://www.huydang.site/"><img src="https://img.shields.io/badge/Portfolio-huydang.site-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:songhuy304@gmail.com"><img src="https://img.shields.io/badge/Email-songhuy304@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/songhuy304"><img src="https://img.shields.io/github/followers/songhuy304?label=Follow&style=for-the-badge&logo=github&color=181717" alt="GitHub followers"/></a>
+<a href="https://www.huydang.site/">
+  <img src="https://img.shields.io/badge/Portfolio-huydang.site-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:songhuy304@gmail.com">
+  <img src="https://img.shields.io/badge/Email-songhuy304@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/songhuy304">
+  <img src="https://img.shields.io/github/followers/songhuy304?label=Follow&style=for-the-badge&logo=github&color=181717" alt="GitHub followers"/>
+</a>
 
 </div>
 
@@ -27,34 +34,43 @@
 ---
 
 ## 🚀 Featured Projects
+
 <table>
   <tr>
     <td width="25%" valign="top">
       <h3>🍜 Korean Food</h3>
       <p>A web application for exploring Korean food.</p>
       <a href="https://korean-f.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-Korean%20Food-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Korean Food" />
+        <img src="https://img.shields.io/badge/Live%20Demo-Korean%20Food-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Korean Food"/>
       </a>
     </td>
+
     <td width="25%" valign="top">
       <h3>🏢 Saigon Club</h3>
       <p>Official website for Saigon Club.</p>
       <a href="https://www.saigonclub.vn/">
-        <img src="https://img.shields.io/badge/Live%20Demo-Saigon%20Club-F59E0B?style=flat-square&logo=googlechrome&logoColor=white" alt="Saigon Club" />
+        <img src="https://img.shields.io/badge/Live%20Demo-Saigon%20Club-F59E0B?style=flat-square&logo=googlechrome&logoColor=white" alt="Saigon Club"/>
       </a>
     </td>
+
     <td width="25%" valign="top">
       <h3>🏙️ City Land</h3>
       <p>A real estate showcase website.</p>
       <a href="https://city-land-six.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-City%20Land-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="City Land" />
+        <img src="https://img.shields.io/badge/Live%20Demo-City%20Land-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="City Land"/>
       </a>
     </td>
+
     <td width="25%" valign="top">
       <h3>🏢 Devcon</h3>
       <p>Official website for Devcon.</p>
       <a href="https://devcon-phi.vercel.app/">
-        <img src="https://img.shields.io/badge/Live%20Demo-Devcon-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Devcon" />
+        <img src="https://img.shields.io/badge/Live%20Demo-Devcon-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Devcon"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🛠️ Languages & Tools
@@ -86,9 +102,15 @@
 
 <div align="center">
 
-<a href="https://github.com/songhuy304"><img src="https://img.shields.io/badge/GitHub-songhuy304-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/huydang304"><img src="https://img.shields.io/badge/LinkedIn-huydang304-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.facebook.com/songhuy30004"><img src="https://img.shields.io/badge/Facebook-songhuy30004-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://github.com/songhuy304">
+  <img src="https://img.shields.io/badge/GitHub-songhuy304-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/huydang304">
+  <img src="https://img.shields.io/badge/LinkedIn-huydang304-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/songhuy30004">
+  <img src="https://img.shields.io/badge/Facebook-songhuy30004-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 
 <br/><br/>
 
