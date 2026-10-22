@@ -1,4 +1,3 @@
-
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
@@ -8,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Huy+Dang;Software+Engineer+%26+Developer;I+build+modern+web+applications;Let's+build+something+great+together!" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.huydang.site/">
   <img src="https://img.shields.io/badge/Portfolio-huydang.site-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
@@ -35,34 +34,33 @@
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
   <tr>
-    <td width="25%" valign="top">
+    <td width="25%" valign="top" align="center">
       <h3>🍜 Korean Food</h3>
       <p>A web application for exploring Korean food.</p>
       <a href="https://korean-f.vercel.app/">
         <img src="https://img.shields.io/badge/Live%20Demo-Korean%20Food-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Korean Food"/>
       </a>
     </td>
-
-    <td width="25%" valign="top">
+    <td width="25%" valign="top" align="center">
       <h3>🏢 Saigon Club</h3>
       <p>Official website for Saigon Club.</p>
       <a href="https://www.saigonclub.vn/">
         <img src="https://img.shields.io/badge/Live%20Demo-Saigon%20Club-F59E0B?style=flat-square&logo=googlechrome&logoColor=white" alt="Saigon Club"/>
       </a>
     </td>
-
-    <td width="25%" valign="top">
+    <td width="25%" valign="top" align="center">
       <h3>🏙️ City Land</h3>
       <p>A real estate showcase website.</p>
       <a href="https://city-land-six.vercel.app/">
         <img src="https://img.shields.io/badge/Live%20Demo-City%20Land-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="City Land"/>
       </a>
     </td>
-
-    <td width="25%" valign="top">
-      <h3>🏢 Devcon</h3>
+    <td width="25%" valign="top" align="center">
+      <h3>🏗️ Devcon</h3>
       <p>Official website for Devcon.</p>
       <a href="https://devcon-phi.vercel.app/">
         <img src="https://img.shields.io/badge/Live%20Demo-Devcon-8B5CF6?style=flat-square&logo=vercel&logoColor=white" alt="Devcon"/>
@@ -70,6 +68,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
