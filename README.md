@@ -45,6 +45,11 @@
       <p>A real estate showcase website.</p>
       <a href="https://city-land-six.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-city--land-3B82F6?style=flat-square&logo=vercel&logoColor=white" alt="City Land demo"/></a>
     </td>
+     <td width="33%" valign="top">
+      <h3>🏢 Devcon</h3>
+      <p>Official website for Devcon.</p>
+      <a href="[https://www.saigonclub.vn](https://devcon-phi.vercel.app/)/"><img src="https://img.shields.io/badge/Live%20Demo-saigonclub.vn-F59E0B?style=flat-square&logo=googlechrome&logoColor=white" alt="Saigon Club demo"/></a>
+    </td>
   </tr>
 </table>
 
