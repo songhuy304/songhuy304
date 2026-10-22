@@ -1,14 +1,10 @@
 # Hi 👋, I'm Huy Dang
 
-### Frontend Developer
-
-- 🔭 I'm currently working on **Shinhan DS**
+### software engineer developer
 
 - 📫 How to reach me **songhuy304@gmail.com**
 
-- ⚡ Fun fact **Hello**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-songhuy304s-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.huydang.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
